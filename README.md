@@ -1,10 +1,10 @@
-# Myfont
+# Ethiopia
 
-Short description of Demo
+Typeface basée sur des caractères alphasyllabaires Ethiopiens (Guèze ou Ge'ez) trouvés sur la devanture d'un restaurant du quartier parmentier (Paris 11) Réalisé dans le cadre du marathon de typographie avec la VTF
 
-## Specimen
+## Photo
 
-![Demo-Italic-v1.001-specimen-001](https://github.com/raphaelbastide/Unified-Font-Repository/master/documentation/images/Demo-Italic-v1.001-specimen-001.png)
+![Demo-Italic-v1.001-specimen-001](https://github.com/KevoM/Ethiopia/master/documentation/images/SDC18043.JPG)
 
 ## License
 
